@@ -11,7 +11,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DYNANETWORK/BanAllBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DYNANETWORK/BANALLBOT)
 
 # Credits
 * [DYNA](https://github.com/DYNANETWORK)
